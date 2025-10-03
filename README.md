@@ -25,6 +25,10 @@ UI nya adalah
 
 saya menggunakan template qt widgets application. Tolong buat berdasarkan pdf yang saya berikan. dalam direktori Source Files terdapat file main.cpp dan mainwindow.cpp sedangkan mainwindow.h terdapat dalam direktori Header Files.
 
+bagaimana cara nya agar garis berada di titik terluar
+
+kenapa masih error
+
 # Collaboration usage
 saya dibantu teman untuk menggunakan qt 
 
